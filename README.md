@@ -1,6 +1,8 @@
 # webdriver_auto_update
 A program to check existing local chromedriver version and automatically downloads the latest available version online.
 
+一個檢查本地端chromedriver是否符合Chrome 版本的程式，如不符合目前運行Chrome 版本，將會自動更新chromedriver
+
 # Program Functionality
 - Checks local chromedriver driver version on your computer and compares it with the latest version available online.
 - The latest online version/release will be downloaded if it does not match your local version.
