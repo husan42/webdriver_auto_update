@@ -17,6 +17,9 @@ A program to check existing local chromedriver version and automatically downloa
 - Make sure you have Python installed in your system.
 - Download webdriver_auto_update.py from Github.
 - Move webdriver_auto_update.py to Project Directory.
+```
+https://github.com/husan42/webdriver_auto_update/blob/main/webdriver_auto_update.py
+```
 
 ## Import check_driver from webdriver_auto_update.py.
 Example
